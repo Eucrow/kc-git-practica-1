@@ -1,6 +1,6 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-> git reset --hard HEAD~1
+> git reset --hard HEAD~1 (con el comando --hard hacemos que se descarten los cambios de los archivos en el working copy)
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué? 
 
